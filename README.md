@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Ph.D students at UNIST DM lab.
-- LinkedIn URL
- +  <a href="https://www.linkedin.com/in/mh-lee08/" target="_blank"><img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mh-lee08/" target="_blank"><img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 
 ### Tech skills
 
